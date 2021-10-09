@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: &nbsp; I'm fullstack developer (web, mobile & devOps)
+- :computer: &nbsp; I'm full & MEAN stack developer (web, mobile & devOps)
 - :earth_asia: &nbsp; I'm based out of **Bangalore, India**
 
 <!--
