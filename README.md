@@ -53,7 +53,7 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/muni.ayothi)
 
 
-
+<br/>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Dynamic List Show More & Less Feature Using VueJS](https://smarttutorials.net/dynamic-list-show-more-less-feature-using-vuejs/)
