@@ -1,4 +1,3 @@
-<div id="muni" style="font-family: Avenir, Serif;font-size: 14px;">
 
 ### Hi there 👋
 
@@ -23,11 +22,16 @@
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="Docker" src="https://img.shields.io/badge/docker%20-%232498ec.svg?&style=for-the-badge&logo=docker&logoColor=%23ffffff" />
-<img align="left" alt="AWS" width="50" src="https://img.shields.io/badge/aws%20-%23232f3e.svg?&style=for-the-badge&logo=amazonaws&logoColor=%23fff" />
+<img align="left" alt="AWS"  src="https://img.shields.io/badge/aws%20-%23232f3e.svg?&style=for-the-badge&logo=amazonaws&logoColor=%23fff" />
+<img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23000.svg?&style=for-the-badge&logo=laravel&logoColor=ff2d20&color=fedcba">
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code%20-%2325abf2.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&color=25abf2">
 
 
-<img align="left" src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="26" height="26"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+
+
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -80,4 +84,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
