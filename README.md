@@ -20,10 +20,10 @@
 
 
 ### Languages and Tools
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
+<img align="left" alt="Docker" src="https://img.shields.io/badge/docker%20-%232498ec.svg?&style=for-the-badge&logo=docker&logoColor=%23ffffff" />
+<img align="left" alt="AWS" width="50" src="https://img.shields.io/badge/aws%20-%23232f3e.svg?&style=for-the-badge&logo=amazonaws&logoColor=%23fff" />
 
 
 <img align="left" src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="26" height="26"/>
