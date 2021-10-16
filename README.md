@@ -25,25 +25,22 @@
 <img align="left" alt="AWS"  src="https://img.shields.io/badge/aws%20-%23232f3e.svg?&style=for-the-badge&logo=amazonaws&logoColor=%23fff" />
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23000.svg?&style=for-the-badge&logo=laravel&logoColor=ff2d20&color=fedcba">
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code%20-%2325abf2.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&color=25abf2">
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-%2325abf2.svg?&style=for-the-badge&logo=html5&logoColor=white&color=e34c26">
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%2325abf2.svg?&style=for-the-badge&logo=css3&logoColor=white&color=264de4">
+<img align="left" alt="Sass"  src="https://img.shields.io/badge/sass%20-%2325abf2.svg?&style=for-the-badge&logo=sass&logoColor=white&color=c69">
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2325abf2.svg?&style=for-the-badge&logo=javascript&logoColor=000&color=f0db4f">
+<img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2325abf2.svg?&style=for-the-badge&logo=react&logoColor=000&color=61DBFB">
+<img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2325abf2.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white&color=303030">
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql%20-%2325abf2.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2325abf2.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=4DB33D">
+<img  align="left" alt="Git"  src="https://img.shields.io/badge/git%20-%2325abf2.svg?&style=for-the-badge&logo=git&logoColor=white&color=f34f29">
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%2325abf2.svg?&style=for-the-badge&logo=github&logoColor=white&color=4078c0">
+
+<img align="left" alt="Linux"  src="https://img.shields.io/badge/linux%20-%2325abf2.svg?&style=for-the-badge&logo=linux&logoColor=white&color=333333" />
+<img align="left" alt="D3Js"  src="https://img.shields.io/badge/d3js%20-%2325abf2.svg?&style=for-the-badge&logo=d3dotjs&logoColor=white&color=f37554" />
 
 
 
-
-
-
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
 
