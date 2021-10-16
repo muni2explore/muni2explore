@@ -1,14 +1,9 @@
-<div id="muni">
+<div id="muni" style="font-family: Avenir, Serif;font-size: 14px;">
 ### Hi there 👋
 
 - :computer: &nbsp; I'm full & MEAN stack developer (web, mobile & devOps)
 - :earth_asia: &nbsp; I'm based out of **Bangalore, India**
-<style>
-#muni{
-  font-family: Avenir, Serif;
-  font-size: 14px;
-}
-</style>
+
 <!--
 
  [![Muni's GitHub stats](https://github-readme-stats.vercel.app/api?username=muni2explore&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=cobalt&contribute=false)](https://github.com/muni2explore/github-readme-stats)
