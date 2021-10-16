@@ -46,15 +46,13 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/munihappy" target="_blank">
-    <img align="center" src="https://play-lh.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" alt="linkedin" height="30" width="30" />
-</a>
-<a href="https://twitter.com/munihappy" target="_blank">
-    <img align="center" src="https://img.favpng.com/6/9/8/wikipedia-logo-computer-icons-portable-network-graphics-vector-graphics-png-favpng-QPaA3LPdUAp2nRJfgW6SgDULD.jpg" alt="linkedin" height="30" width="30" />
-</a>
-<a href="https://stackoverflow.com/users/2296266/muni" target="_blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24g27z39-sZ6dtevQctMv38UqI9g8S-gx8K8-WHOadb647rwR3mnMB__ZVK_0Lt-Wz2U&usqp=CAU" alt="stackoverflow" height="30" width="30" />
-</a>
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/munihappy)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/2296266/muni)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/munihappy)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/muni.ayothi)
+
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
