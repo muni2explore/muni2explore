@@ -56,6 +56,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic List Show More & Less Feature Using VueJS](https://smarttutorials.net/dynamic-list-show-more-less-feature-using-vuejs/)
+- [Add Show More & Less feature using VueJS](https://smarttutorials.net/add-show-more-less-feature-using-vuejs/)
+- [How to create a unique wedding invitation online?](https://smarttutorials.net/how-to-create-unique-wedding-invitation-online/)
+- [Integrate jQuery Autocomplete With Ajax Call in Laravel, MySQL in 5 Minutes](https://smarttutorials.net/integrate-jquery-autocomplete-with-ajax-call-in-laravel-mysql-in-5-minutes/)
+- [Integrate jQuery Simple & Multi Textfield Autocomplete With CodeIgniter in 5 Minutes](https://smarttutorials.net/integrate-jquery-simple-multi-textfield-autocomplete-with-codeigniter-in-5-minutes/)
 <!-- BLOG-POST-LIST:END -->
 
 
