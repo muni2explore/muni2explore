@@ -39,6 +39,8 @@
 <img style="margin-bottom: 20px;" align="left" alt="Linux"  src="https://img.shields.io/badge/linux%20-%2325abf2.svg?&style=for-the-badge&logo=linux&logoColor=white&color=333333" />
 <img style="margin-bottom: 20px;" align="left" alt="D3Js"  src="https://img.shields.io/badge/d3js%20-%2325abf2.svg?&style=for-the-badge&logo=d3dotjs&logoColor=white&color=f37554" />
 
+<img style="margin-bottom: 20px;" align="left" alt="D3Js"  src="https://blogger.googleusercontent.com/img/a/AVvXsEhVGBnLyxyvvfLMXvEPU-HHNO4S70RrHJmLXrekHYB7dKAIYUK4murolEcLJaNTpJnHDGLV4ef2EemRagA8dRNkCKMe66Oj-oFhD_z8C8G1MpXytJhXrvfH9xkkWgAUCLk8dKuULujqAWR9gqP7kzIqs2A4ygaoi3ixZf80eDZeF3__rHEcIZUhV6lczw=s77" />
+
 
 
 <br />
