@@ -46,7 +46,7 @@
 <br />
 <br />
 <p>&nbsp;</p>
-
+<!--
 ### Connect with me
 
 
@@ -56,7 +56,7 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/muni.ayothi)
 
 <p>&nbsp;</p>
-
+-->
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
